@@ -1,3 +1,0 @@
-# celciustofahrenheit
-# celciustofahrenheit
-# root.c
